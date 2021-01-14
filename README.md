@@ -17,13 +17,16 @@ I've worked in Communication, Digital Marketing, Social Media and Content Creati
 
 ### Languages & technologies
 
-HTML5 | CSS3 | JavaScript (ES6) | Canvas | Sass | Bootstrap | Handlebars | React | Node.js | Express.js | MongoDB | Postman | Passport
+HTML5 | CSS3 | JavaScript (ES6) | Canvas | Sass | Bootstrap | React | Node.js | Express.js | MongoDB | Postman | Passport
 
-Want to contact me? You can send me an email at patriciamudime@gmail.com, find me on [Instagram](https://www.instagram.com/patriciamdm/) or connect with me on [LinkedIn](https://www.linkedin.com/in/patriciamudime/). Like books too? I'm on [Goodreads](https://www.goodreads.com/patriciamdm)!
+### Contact me
+
+Want to reach me? You can send me an email at patriciamudime@gmail.com, find me on [Instagram](https://www.instagram.com/patriciamdm/) or connect with me on [LinkedIn](https://www.linkedin.com/in/patriciamudime/). Like books too? I'm on [Goodreads](https://www.goodreads.com/patriciamdm)!
+
 
 
 <div >
-  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=patriciamdm&show_icons=true&theme=algolia&icon_color=73d0ff&hide_border=true" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=patriciamdm&show_icons=true&theme=algolia&icon_color=f4cd7c&hide_border=true" />
   <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patriciamdm&layout=compact&theme=algolia&hide_border=true" />
 </div>
 
