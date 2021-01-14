@@ -12,7 +12,7 @@ I've worked in Communication, Digital Marketing, Social Media and Content Creati
 - 👯  I’m looking to collaborate on whatever you have in mind, if I can help I'm in!
 - 🤔  I’m looking for help learning what are the newest industry practices, got any tips?
 - :muscle:  I love to go kitesurfing, diving or climbing whenever I get a chance.
-- :zap:  Fun fact: I make a lot of lists on my phone to keep at a fingers touch the most random but usefull stuff!
+- :zap:  Fun fact: I make a lot of lists on my phone to keep at a fingers touch the stuff I constantly need and constantly forget!
 
 
 ### Languages & technologies
