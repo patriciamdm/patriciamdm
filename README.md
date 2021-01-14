@@ -2,9 +2,6 @@
 
 I'm Patricia Muñoz de Dios, a designer turned developer from Canary Islands, Spain.
 
-<!--
-**patriciamdm/patriciamdm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ### About me
 
 I graduated from Fashion Design but I hated my sewing machine so I turned to my computer for a nicer relationship.
