@@ -19,5 +19,9 @@ I've worked in Communication, Digital Marketing, Social Media and Content Creati
 Want to contact me? You can send me an [email], find me on [Instagram](https://www.instagram.com/patriciamdm/) or connect with me on [LinkedIn](https://www.linkedin.com/in/patriciamudime/)!
 
 
-[![Patricia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=patriciamdm&show_icons=true&theme=ayu-mirage)](https://github.com/patriciamdm/github-readme)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patriciamdm&layout=compact&theme=ayu-mirage)](https://github.com/patriciamdm/github-readme)
+<div>
+  <img height="140px" src="https://github-readme-stats.vercel.app/api?username=patriciamdm&show_icons=true&theme=ayu-mirage" />
+  <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patriciamdm&layout=compact&theme=ayu-mirage" />
+</div>
+
+<!--- [![Patricia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=patriciamdm&show_icons=true&theme=ayu-mirage)](https://github.com/patriciamdm/github-readme) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patriciamdm&layout=compact&theme=ayu-mirage)](https://github.com/patriciamdm/github-readme) --->
