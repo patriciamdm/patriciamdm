@@ -23,8 +23,8 @@ Want to contact me? You can send me an email at patriciamudime@gmail.com, find m
 
 
 <div >
-  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=patriciamdm&show_icons=true&theme=algolia" />
-  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patriciamdm&layout=compact&theme=algolia" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=patriciamdm&show_icons=true&theme=algolia&icon_color=73d0ff&hide_border=true" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patriciamdm&layout=compact&theme=algolia&hide_border=true" />
 </div>
 
 <!--- [![Patricia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=patriciamdm&show_icons=true&theme=ayu-mirage)](https://github.com/patriciamdm/github-readme) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patriciamdm&layout=compact&theme=ayu-mirage)](https://github.com/patriciamdm/github-readme) --->
