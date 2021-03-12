@@ -17,7 +17,7 @@ I've worked in Communication, Digital Marketing, Social Media and Content Creati
 
 ### Languages & technologies
 
-HTML5 | CSS3 | JavaScript (ES6) | Canvas | Sass | Bootstrap | React | Node.js | Express.js | MongoDB | Postman | Passport
+HTML5 | CSS3 | JavaScript (ES6) | Canvas | Sass | Bootstrap | React | Node.js | Express.js | MongoDB | API Rest | Postman | Passport
 
 ### Contact me
 
