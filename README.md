@@ -5,19 +5,19 @@ I'm Patricia Muñoz de Dios, a designer turned developer from Canary Islands, Sp
 ### About me
 
 I graduated from Fashion Design but I hated my sewing machine so I turned to my computer for a way nicer relationship.
-I've worked in Communication, Digital Marketing, Social Media and Content Creation before fully embracing my true self and enrolling in the pirate ship that is the Ironhack WebDev Bootcamp.
+I've worked in Communication, Digital Marketing, Social Media and Content Creation before fully embracing my true self and enrolling in the pirate ship that was the Ironhack WebDev Bootcamp.
+I'm now working as a Software Engineer at `Glovo` and I couldn't be happier!
 
-- 🌱  I’m currently learning `Vue`
+- 🌱  I’m currently learning about `Data Structures` and `Time and space complexity`
 - 💬  Ask me about anything fashion related, books, movies & series or let's go ahead and talk code!
 - 👯  I’m looking to collaborate on whatever you have in mind, if I can help I'm in!
-- 🤔  I’m looking for help learning what are the newest industry practices, got any tips?
-- :muscle:  I love to go kitesurfing, diving or climbing whenever I get a chance.
-- :zap:  Fun fact: I make a lot of lists on my phone to keep at a fingers touch the stuff I constantly need and constantly forget and Notion is my bff.
+- :muscle:  I love to go kitesurfing, scuba diving or climbing whenever I get a chance.
+- :zap:  Fun fact: I make a lot of lists on my phone to keep at a fingers touch the stuff I constantly need and constantly forget.
 
 
 ### Languages & technologies
 
-HTML5 | CSS3 | JavaScript (ES6) | Canvas | Sass | Bootstrap | React | Node.js | Express.js | MongoDB | API Rest | Postman | Passport
+HTML5 | CSS3 | JavaScript (ES6) | TypeScript | Canvas | Sass | Bootstrap | React | Vue | Node.js | Express.js | MongoDB | API Rest | Postman | Passport
 
 ### Contact me
 
