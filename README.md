@@ -19,10 +19,6 @@ I'm now working as a Software Engineer at `Glovo` and I couldn't be happier!
 
 HTML5 | CSS3 | JavaScript (ES6) | TypeScript | Canvas | Sass | Bootstrap | React | Vue | Node.js | Express.js | MongoDB | API Rest | Postman | Passport
 
-### Contact me
-
-Want to reach me? You can send me an email at patriciamudime@gmail.com, find me on [Instagram](https://www.instagram.com/patriciamdm/) or connect with me on [LinkedIn](https://www.linkedin.com/in/patriciamudime/). Like books too? I'm on [Goodreads](https://www.goodreads.com/patriciamdm)!
-
 
 
 <div >
