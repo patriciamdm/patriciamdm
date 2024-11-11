@@ -6,9 +6,10 @@ I'm Patricia Muñoz de Dios, a designer turned developer from Canary Islands, Sp
 
 I graduated from Fashion Design but I hated my sewing machine so I turned to my computer for a way nicer relationship.
 I've worked in Communication, Digital Marketing, Social Media and Content Creation before fully embracing my true self and enrolling in the pirate ship that was the Ironhack WebDev Bootcamp.
-I'm now working as a Software Engineer at `Glovo` and I couldn't be happier!
+I'm now working as a Software Engineer II at `Datadog` and I couldn't be happier!
 
-- 🌱  I’m currently learning about `Data Structures` and `Time and space complexity`
+- 😄 Pronouns: she/her/hers
+<!--- - 🌱  I’m currently learning about `Data Structures` and `Time and space complexity` --->
 - 💬  Ask me about anything fashion related, books, movies & series or let's go ahead and talk code!
 - 👯  I’m looking to collaborate on whatever you have in mind, if I can help I'm in!
 - :muscle:  I love to go kitesurfing, scuba diving or climbing whenever I get a chance.
